@@ -1,0 +1,15 @@
+C:\Users\daniel\source\repos\DanielSuavita\AuthPlus\DataInfrastructure\AuthPlus.Data\bin\Debug\net5.0\AuthPlus.Data.deps.json
+C:\Users\daniel\source\repos\DanielSuavita\AuthPlus\DataInfrastructure\AuthPlus.Data\bin\Debug\net5.0\AuthPlus.Data.dll
+C:\Users\daniel\source\repos\DanielSuavita\AuthPlus\DataInfrastructure\AuthPlus.Data\bin\Debug\net5.0\ref\AuthPlus.Data.dll
+C:\Users\daniel\source\repos\DanielSuavita\AuthPlus\DataInfrastructure\AuthPlus.Data\bin\Debug\net5.0\AuthPlus.Data.pdb
+C:\Users\daniel\source\repos\DanielSuavita\AuthPlus\DataInfrastructure\AuthPlus.Data\obj\Debug\net5.0\AuthPlus.Data.csproj.AssemblyReference.cache
+C:\Users\daniel\source\repos\DanielSuavita\AuthPlus\DataInfrastructure\AuthPlus.Data\obj\Debug\net5.0\AuthPlus.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\daniel\source\repos\DanielSuavita\AuthPlus\DataInfrastructure\AuthPlus.Data\obj\Debug\net5.0\AuthPlus.Data.AssemblyInfoInputs.cache
+C:\Users\daniel\source\repos\DanielSuavita\AuthPlus\DataInfrastructure\AuthPlus.Data\obj\Debug\net5.0\AuthPlus.Data.AssemblyInfo.cs
+C:\Users\daniel\source\repos\DanielSuavita\AuthPlus\DataInfrastructure\AuthPlus.Data\obj\Debug\net5.0\AuthPlus.Data.csproj.CoreCompileInputs.cache
+C:\Users\daniel\source\repos\DanielSuavita\AuthPlus\DataInfrastructure\AuthPlus.Data\obj\Debug\net5.0\AuthPlus.Data.dll
+C:\Users\daniel\source\repos\DanielSuavita\AuthPlus\DataInfrastructure\AuthPlus.Data\obj\Debug\net5.0\ref\AuthPlus.Data.dll
+C:\Users\daniel\source\repos\DanielSuavita\AuthPlus\DataInfrastructure\AuthPlus.Data\obj\Debug\net5.0\AuthPlus.Data.pdb
+C:\Users\daniel\source\repos\DanielSuavita\AuthPlus\DataInfrastructure\AuthPlus.Data\bin\Debug\net5.0\AuthPlus.Domain.dll
+C:\Users\daniel\source\repos\DanielSuavita\AuthPlus\DataInfrastructure\AuthPlus.Data\bin\Debug\net5.0\AuthPlus.Domain.pdb
+C:\Users\daniel\source\repos\DanielSuavita\AuthPlus\DataInfrastructure\AuthPlus.Data\obj\Debug\net5.0\AuthPlus.Data.csproj.CopyComplete
