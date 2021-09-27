@@ -42,11 +42,14 @@ namespace AuthPlus.API
             services.AddScoped<RegistrarUsuarios>();
             services.AddSingleton<FakeDbContext>();
 
-            services.AddCors(options => options.AddDefaultPolicy(policy => 
-                policy.AllowAnyOrigin()
-                        .AllowAnyHeader()
-                        .AllowAnyMethod()
-            ));
+            services.AddCors(options => 
+                options.AddPolicy("DefaultPolicy", Builder => 
+                    Builder.WithOrigins("http://localhost:8100")
+                            .AllowAnyHeader()
+                            .AllowAnyMethod()
+                )
+            );
+
             services.AddSwaggerGen(c =>
             {
                 c.SwaggerDoc("v1", new OpenApiInfo { Title = "AuthPlus.API", Version = "v1" });
@@ -64,6 +67,8 @@ namespace AuthPlus.API
             }
 
             app.UseHttpsRedirection();
+
+            app.UseCors("DefaultPolicy");
 
             app.UseRouting();
 

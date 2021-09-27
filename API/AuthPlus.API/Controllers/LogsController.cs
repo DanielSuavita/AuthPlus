@@ -29,14 +29,14 @@ namespace AuthPlus.API.Controllers
             _GetTotalLogs = GetTotalLogs;
         }
 
-        [HttpGet("Recent")]
+        [HttpPost("Recent")]
         public List<Log> GetRecent(Usuario User)
         {
             _GetRecentLogs.Validate(User);
             return _GetRecentLogs.Response(User);
         }
         
-        [HttpGet("All")]
+        [HttpPost("All")]
         public List<Log> GetTotal(Usuario User)
         {
             _GetTotalLogs.Validate(User);
